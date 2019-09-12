@@ -7,3 +7,4 @@ end
 def introduction_with_language (name, language)
   puts "Hi #{name}, I heard you are good at #{language}"
 end
+introduction_with_language ("Josh, "Python")
