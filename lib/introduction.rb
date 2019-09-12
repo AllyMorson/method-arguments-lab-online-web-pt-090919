@@ -5,4 +5,5 @@ def introduction(name)
 end
 
 def introduction (name , language)
-  puts 
+  puts "Hi #{name}, I heard you are good at #{language}"
+end
